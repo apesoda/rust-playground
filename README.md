@@ -5,6 +5,6 @@ Contains:
 * Assorted experiments
 
 To compile one-off files:
-'''shell
+```shell
 rustc file.rs
-'''
+```
